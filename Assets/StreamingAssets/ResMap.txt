@@ -1,0 +1,14 @@
+PaltStory=PoltTxt/PaltStory
+End1=PoltTxt/Select1/End1
+End2=PoltTxt/Select1/End2
+Polt1_1=PoltTxt/Select1/Polt1_1
+Polt1_2=PoltTxt/Select1/Polt1_2
+Select1=PoltTxt/Select1/Select1
+End3=PoltTxt/Select2/End3
+Polt2_1=PoltTxt/Select2/Polt2_1
+Polt2_2=PoltTxt/Select2/Polt2_2
+Select2=PoltTxt/Select2/Select2
+Scene 1=Sprites/BackGrounds/Scene 1
+Scene 2=Sprites/BackGrounds/Scene 2
+Scene 4=Sprites/BackGrounds/Scene 4
+Scene 5=Sprites/BackGrounds/Scene 5
